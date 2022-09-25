@@ -1,7 +1,7 @@
 <h1 align="center">Hey there ! <img src="https://media.giphy.com/media/3ohc1a0nE5CcRTLdeg/giphy.gif" width="40" height="40"></h1>
 
 
-<h align="justified"> Welcome to my github profile. I'm Ferraz Hericles, and I will be one of the people who will change the world. I'm a developer passionate about technology, and I'm currently focused on machine learning projects, in the field of data science. </h>
+<h align="justified"> Welcome to my github profile. I'm Ferraz Hericles, and I will be one of the people who will change the world. I'm a developer passionate about technology, and I'm currently focused on machine learning projects, in the field of computacional vision. </h>
 
 
 <p align="left  "><img src="https://komarev.com/ghpvc/?username=hericlesferraz&style=flat-square&color=blue" alt=""></p>
