@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/hericlesferraz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericlesferraz&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hericlesferraz&include_all_commits=true&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericlesferraz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
