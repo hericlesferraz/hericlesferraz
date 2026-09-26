@@ -99,6 +99,7 @@ Applied computer vision research at the Federal University of Uberlândia, publi
 
 ### Selected work
 
+- **[trueodds](https://github.com/hericlesferraz/trueodds)** · Small decision model that returns a probability for each option of a question in one forward pass, and measures whether those probabilities are true: calibrated on data like its training data (ECE 0.007), overconfident on tasks it never saw.<br><sub>PyTorch · ModernBERT · calibration · MLflow</sub>
 - **[DocVault](https://github.com/hericlesferraz/DocVault)** · Document RAG that answers with exact citations linked to the source page, with agentic multi-step retrieval and a fully offline mode.<br><sub>FastAPI · React · Qdrant · PostgreSQL · Ollama</sub>
 - **[coffee-temporal-selection](https://github.com/hericlesferraz/coffee-temporal-selection)** · Research code showing that an accuracy peak found by selecting images over time belongs to the validation protocol, not the plants: 78% with an image-level split, 37% once plants are kept apart.<br><sub>PyTorch · ResNet50 · grouped cross-validation</sub>
 - **[coffee-soil-nutrients-dissertation](https://github.com/hericlesferraz/coffee-soil-nutrients-dissertation)** · MSc dissertation code. CNNs, Vision Transformers and hybrid models detecting nutrient deficiencies in coffee leaves over time, explained with Grad-CAM and attention maps.<br><sub>PyTorch · Vision Transformers · Grad-CAM</sub>
